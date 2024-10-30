@@ -17,7 +17,7 @@ Nanofibers for piezoelectric sensors and ultrasonic transducers; Triboelectric f
   </span>
 </a>
 
-💓 Drop me a message via [email](mailto:jingcheng@u.nus.edu).
+💓 Feel free to drop me a message via [email](mailto:jingcheng@u.nus.edu).
 
 <!--
 **ginwithpepsi/ginwithpepsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
