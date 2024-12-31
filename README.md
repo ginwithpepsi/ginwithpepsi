@@ -1,7 +1,7 @@
 ## Hi there 👋
 **Quack quack!** 🦆
 
-🙉 I'm currently a PhD candidate at NUS with advisors: [Prof. Seeram Ramakrishna](https://scholar.google.com/citations?user=a49NVmkAAAAJ&hl=en&inst=3212728378801010220&oi=ao) and [Dr Yao Kui (A*STAR)](https://scholar.google.com/citations?user=dbOz9_MAAAAJ&hl=en&inst=3212728378801010220).
+🙉 I have finished my PhD study at National University of Singapore (NUS) with advisors: [Prof. Seeram Ramakrishna](https://scholar.google.com/citations?user=a49NVmkAAAAJ&hl=en&inst=3212728378801010220&oi=ao) and [Dr Yao Kui (A*STAR)](https://scholar.google.com/citations?user=dbOz9_MAAAAJ&hl=en&inst=3212728378801010220).
 
 📖 Topics I've worked on during PhD include: 
 Nanofibers for piezoelectric sensors and ultrasonic transducers; Triboelectric fibers for sound/noise absorption.
