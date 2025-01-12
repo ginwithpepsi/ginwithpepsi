@@ -1,10 +1,15 @@
 ## Hi there 👋
 **Quack quack!** 🦆
 
-🙉 I have finished my PhD study at National University of Singapore (NUS) with advisors: [Prof. Seeram Ramakrishna](https://scholar.google.com/citations?user=a49NVmkAAAAJ&hl=en&inst=3212728378801010220&oi=ao) and [Dr Yao Kui (A*STAR)](https://scholar.google.com/citations?user=dbOz9_MAAAAJ&hl=en&inst=3212728378801010220).
+🙉 I finished my PhD study at National University of Singapore (NUS) with advisors: [Prof. Seeram Ramakrishna](https://scholar.google.com/citations?user=a49NVmkAAAAJ&hl=en&inst=3212728378801010220&oi=ao) and [Dr Yao Kui (A*STAR)](https://scholar.google.com/citations?user=dbOz9_MAAAAJ&hl=en&inst=3212728378801010220) in 2024.
 
 📖 Topics I've worked on during PhD include: 
 Nanofibers for piezoelectric sensors and ultrasonic transducers; Triboelectric fibers for sound/noise absorption.
+
+🧩 Topics I'm interested in and/or working on include:
+Ultrasound for diagnostics and treatments; wearable ultrasound sensors; smart and sustainable materials.
+
+💓 Welcome to drop me a message via [email](mailto:jingcheng@u.nus.edu).
 
 👀 My profile links:
 <a href="https://scholar.google.com/citations?hl=en&user=CNj9GSsAAAAJ" target="_blank">
@@ -16,8 +21,6 @@ Nanofibers for piezoelectric sensors and ultrasonic transducers; Triboelectric f
     LinkedIn
   </span>
 </a>
-
-💓 Feel free to drop me a message via [email](mailto:jingcheng@u.nus.edu).
 
 <!--
 **ginwithpepsi/ginwithpepsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
